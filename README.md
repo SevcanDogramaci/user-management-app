@@ -2,7 +2,7 @@
 
 Frontend project is available under `/ui` folder.
 
-Backend documentation is available [here](https://gitlab.com/sevcan.dog/filllabsinterviewtask/-/blob/main/Q4/backend.md).
+Backend documentation is available [here](https://github.com/SevcanDogramaci/user-management-app/blob/main/backend.md).
 
 ## Requirements
 
